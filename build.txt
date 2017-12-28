@@ -1,0 +1,5 @@
+displayName = Necessories
+author = Cam275YT
+version = 1.0
+includeSource = true
+buildIgnore = *.csproj
